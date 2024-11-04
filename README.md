@@ -16,7 +16,7 @@
 Exempel på diskussionsfrågor:
 
 * Hur har du strukturerat din CSS? Använt BEM?
-* Hur har du modellerat din data och varför (i React/Vue etc)?
+* Hur har du modellerat din data och varför (i React/Vanilla JS etc)?
 * Vad var svårast och varför?
 * Har du någon lösning du är extra stolt över?
 
