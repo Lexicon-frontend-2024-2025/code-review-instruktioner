@@ -7,6 +7,7 @@
    - Hur tog jag mig an uppgiften? (Ex. för JS, skrev pseudokod, bröt ner i delar, För HTML och CSS, ritade upp enligt block > container > element osv).
    - Var började jag?
    - Presentera sin kod och förklara övergripande (måste inte vara varje kodrad)
+   Förslagsvis kan varje studen dela sin kod via live share innan till de andra för läsning och prepp med frågor.
 
 3. De andra studenterna ger sedan feedback i form av "2 stars and a wish" alltså 2 positiva saker och en förbättringspotential. 
 
@@ -24,4 +25,5 @@ Exempel på diskussionsfrågor:
 
 6. Låt sedan varje grupp presentera i helklass lite kort vad de pratade om och svara på frågor, försök gärna fånga upp sådant som kan vara extra intressant att ha en diskussion kring.
 
+Läraren kan dyka in i ert grupprum i tid och otid för att kika hur ni ligger till och om frågor finnes.
 **Tidsåtgång**: 45 - 60 minuter
