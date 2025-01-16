@@ -16,10 +16,9 @@
 
 Exempel på diskussionsfrågor:
 
-* Hur har du strukturerat din CSS? Använt BEM?
-* Hur har du modellerat din data och varför (i React/Vanilla JS etc)?
 * Vad var svårast och varför?
 * Har du någon lösning du är extra stolt över?
+* Hur tog du dig an att hämta data från användaren?
 
 5. Be studenterna att sammanfatta var de pratade om i några punkter och om de har några frågor.
 
